@@ -18,3 +18,14 @@ The vision for `cabstools` is to become the go-to R package within the global bi
 `cabstools` is not just a software package but a platform for collaboration. CABS encourages users to contribute to the development of `cabstools`, enhancing its capabilities and ensuring it addresses the real-world challenges faced by the community. Through workshops, webinars, and forums, `cabstools` users can connect, share insights, and forge partnerships, driving innovation in biopharmaceutical research.
 
 By harnessing the collective expertise of the CABS community, `cabstools` stands at the cutting edge of research technology, empowering scientists to make significant strides in drug discovery and development.
+
+### License
+
+**cabstools** is licensed under the **GNU General Public License v3.0 (GPL-3.0)**, which allows users to run, study, share, and modify the software. The GPL-3.0 license ensures that all derivatives of the software remain free and open under the same terms, fostering a community of collaboration and transparency in the enhancement and distribution of `cabstools`.
+
+**Terms of Use:**
+- **Freedom to Use:** Users are free to use `cabstools` for both commercial and non-commercial purposes.
+- **Source Code:** The source code of `cabstools` is available for modification. Users who modify and redistribute `cabstools` must also distribute their modifications under the GPL-3.0.
+- **No Warranty:** `cabstools` is provided without warranty of any kind. Users are solely responsible for any risks associated with its use.
+
+For more details on the GPL-3.0 license, please visit [GNU Operating System](https://www.gnu.org/licenses/gpl-3.0.en.html).
